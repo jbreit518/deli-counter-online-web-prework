@@ -4,7 +4,7 @@ def line(deli)
     puts "The line is currently empty."
   else 
     puts "The line is currently:
-    #{deli.each_index { |1| }."
+    #{deli.each_index { }."
     
     a.each_index {|x| print x, " -- " }
   end   
