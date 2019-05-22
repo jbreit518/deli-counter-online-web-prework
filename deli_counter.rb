@@ -1,7 +1,7 @@
 # Write your code here.
-def line 
-  if katz_deli == []
+def line(deli)
+  if deli == []
     puts "The line is currently empty."
-  else puts katz_deli
+  else
 end 
 
