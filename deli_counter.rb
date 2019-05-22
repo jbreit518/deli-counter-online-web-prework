@@ -18,4 +18,4 @@ def now_serving(deli)
   if deli == []
     puts "There is nobody waiting to be served!"
   else 
-    puts 
+    puts "Currently serving #{name}."
